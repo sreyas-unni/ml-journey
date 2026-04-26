@@ -27,10 +27,16 @@
 - 🏆 AWS Certified AI Practitioner
 
 ## Weekly Log
+
 ### Week 1
-- Created GitHub profile
-- Started Striver A2Z DSA sheet
-- Setting up learning environment
+- ✅ Set up GitHub, LinkedIn, Medium profiles
+- ✅ Day 1 — Largest Element in Array | O(n) time | O(1) space
+- ✅ Day 2 — Second Largest Element in Array | Single pass | O(n) time
+- ✅ Understood time and space complexity — O(n), O(n log n), O(1)
+- ✅ 3Blue1Brown Chapter 1 — Vectors
+- ✅ 3Blue1Brown Chapter 2 — Span and Basis
+- ✅ Understood linear independence and basis
+- ✅ Created aws-ml-notes folder structure
 
 ## Connect
 - 💼 LinkedIn: [sreyas-unni](https://linkedin.com/in/sreyasunni)
